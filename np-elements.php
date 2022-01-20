@@ -1,12 +1,12 @@
 <?php
 /**
- * Plugin Name: Elementor Hello World
- * Description: Elementor sample plugin.
- * Plugin URI:  https://elementor.com/
+ * Plugin Name: Netzprinz Elementor Widgets
+ * Description: Elementor Widgets by NetzPrinz.
+ * Plugin URI:  https://wp-tutorials.de
  * Version:     1.2.1
- * Author:      Author Name
- * Author URI:  https://elementor.com/
- * Text Domain: elementor-hello-world
+ * Author:      Oliver Hees
+ * Author URI:  https://wp-tutorials.de/
+ * Text Domain: np-elements
  * Elementor tested up to: 3.0.0
  * Elementor Pro tested up to: 3.0.0
  */
