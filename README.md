@@ -1,6 +1,6 @@
-# Elementor Hello World Sample Plugin
+# NetzPrinz Special Elementor Widgets
 
-This is a sample plugin to demonstrate how you can write extentions (plugins) to add custom functionality to [Elementor](https://github.com/pojome/elementor/)
+This Plugin is createt by Oliver Hees (NetzPrinz) for special Elementor Widgets
 
 Plugin Structure: 
 ```
